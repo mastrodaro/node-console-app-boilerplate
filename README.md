@@ -1,5 +1,4 @@
-# node-console-app-boilerplate
-
+# Nodejs console app boilerplate
 ![](docs/webpack.png "Webpack")
 ![](docs/plus.png "")
 ![](docs/babel.png "Babel")
@@ -9,6 +8,17 @@
 ![](docs/prettier.png "Prettier")
 
 Project skeleton ready to development of node.js console application.
+
+# How to use
+Change `name` and `bin` command in *package.json*:
+```
+{
+  "name": "<app name>",
+  "bin": {
+    "<command name>": "..."
+  }
+}
+```
 
 # Useful packages
 ```
