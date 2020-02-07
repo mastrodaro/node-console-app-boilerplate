@@ -19,6 +19,7 @@ Change `name` and `bin` command in *package.json*:
   }
 }
 ```
+Remove `docs`, edit README. Then `npm run build` to generate `lib/main.js` and package is ready to `npm publish`.
 
 # Useful packages
 ```
