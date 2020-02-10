@@ -6,6 +6,8 @@
 ![](docs/eslint.png "ESLint")
 ![](docs/plus.png "")
 ![](docs/prettier.png "Prettier")
+![](docs/plus.png "")
+![](docs/jest.png "Jest")
 
 Project skeleton ready to development of node.js console application.
 
