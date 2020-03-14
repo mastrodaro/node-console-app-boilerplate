@@ -13,5 +13,9 @@ module.exports = {
         use: ["babel-loader", "eslint-loader"]
       }
     ]
+  },
+  resolve: {
+    modules: [path.resolve(__dirname, "./src"), "node_modules"],
+    extensions: [".js", ".json"]
   }
 };
